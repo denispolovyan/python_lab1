@@ -1,4 +1,4 @@
-# lab1 python
+# lab1 python (master)
 
 | Сommand list | part 1     |
 | ------------ | ---------- |
