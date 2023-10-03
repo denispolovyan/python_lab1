@@ -82,4 +82,5 @@ E:/kpi/Python/lab1_git  2bdb958 [master]
 | 6.           | git push origin master                                       |
 | 7.           | git log --all                                                |
 
-<br/>
+
+
